@@ -43,7 +43,7 @@ Figure 2: Steps in converting real image to cartoon image
 
 Converting real image to cartoon image using OpenCV
 
-[![Figure3](https://img.youtube.com/vi/v1dx6Q6k8k0/0/jpg)](https://www.youtube.com/watch?v=v1dx6Q6k8k0 "Figure3")
+[![Figure3](https://img.youtube.com/vi/v1dx6Q6k8k0/0.jpg)](https://www.youtube.com/watch?v=v1dx6Q6k8k0 "Figure3")
 
 Figure 3: Tutorial of image to cartoon conversion
 
